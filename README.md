@@ -1,2 +1,2 @@
 # HSE__ML
-🥽 Лабораторные работы по курсу "Machine Leaning and System Security".
+🥽 Лабораторные работы по курсу "Machine Leaning and System Security"
